@@ -8,17 +8,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-## Manufac-Agriculture-Analytics
+## Agiculture_Manufac
 Analytics over the Indian Agriculture dataset (made available by National Data and Analytics Platform, NITI Aayog) and then display them as tables.
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Prashant059/Manufac-Agriculture-Analytics.git
-```
+1. Download the ZIP
 
-2. Navigate to the project directory:
+2. Open in Code Editor
 ```bash
 cd Manufac-Agriculture-Analytics
 ```
