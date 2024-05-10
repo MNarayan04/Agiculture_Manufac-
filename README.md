@@ -25,8 +25,6 @@ cd Manufac-Agriculture-Analytics
 ```bash
 npm i
 ```
-
-## Usage
 To run the project:
 ```bash
 npm run
