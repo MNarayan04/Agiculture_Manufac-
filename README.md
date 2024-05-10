@@ -32,4 +32,16 @@ npm run
 
 
 
+![Screenshot 2024-05-09 225946](https://github.com/MNarayan04/Agiculture_Manufac-/assets/100512104/473138e8-b907-4f05-84a6-a4956517282a)
+
+
+
+![Screenshot 2024-05-09 230008](https://github.com/MNarayan04/Agiculture_Manufac-/assets/100512104/63d69126-2af0-4e2f-830b-af2e482c260f)
+
+
+
+
+
+
+
 
