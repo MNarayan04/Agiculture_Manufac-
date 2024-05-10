@@ -19,7 +19,7 @@ Analytics over the Indian Agriculture dataset (made available by National Data a
 
 3. 
 ``` bash
-cd Manufac-Agriculture-Analytics
+cd Agiculture_Manufac-
 ```
 4.Use the package manager yarn to install yarn.
 ```bash
