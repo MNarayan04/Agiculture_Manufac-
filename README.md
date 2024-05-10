@@ -16,45 +16,22 @@ Analytics over the Indian Agriculture dataset (made available by National Data a
 1. Download the ZIP
 
 2. Open in Code Editor
-```bash
+
+3. 
+``` bash
 cd Manufac-Agriculture-Analytics
 ```
-3.Use the package manager yarn to install yarn.
+4.Use the package manager yarn to install yarn.
 ```bash
-yarn install
+npm i
 ```
 
 ## Usage
 To run the project:
 ```bash
-yarn run dev
+npm run
 ```
 
-## File Structure
-Manufac-Agriculture-Analytics
-```bash
-Manufac-Agriculture-Analytics/
-├── public
-├── src/
-│   ├── components/
-│   │   ├── AgricultureDataSetOne.jsx
-|   |   ├──  AgricultureDataSetTwo.jsx
-│   ├── Data/
-│   │   ├── Agriculture-DataSet.jsx
-│   ├── Utils
-│   │   ├── utils.jsx
-│   ├── App.css
-│   ├── App.jsx
-│   └── index.css
-│   └── main.jsx
-├── postcss.config.cjs
-├── index.html
-├── package.json
-└── README.md
-└── vite.config.js
-```
 
-## Screenshot
-![Screenshot_24-4-2024_174748_localhost](https://github.com/Prashant059/Manufac-Agriculture-Analytics/assets/113191332/d3a83f3c-7a12-4a0c-ba99-3dfe7b2a342f)
 
 
